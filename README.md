@@ -2,5 +2,7 @@
 
 Kriptoloji'de kullanılan **Permütasyon Algoritması** C# programlama dili kullanılarak *şifrelemesi* ve *deşifrelemesi* yapılmıştır.
 
-![Form](picture/permImg.png)
+***
+
+![Form](/bin/Debug/picture/permImg.png)
     

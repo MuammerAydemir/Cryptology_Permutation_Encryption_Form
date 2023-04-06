@@ -14,7 +14,7 @@ namespace Kriptoloji
     public partial class Form1 : Form
     {
         
-        String metin = "";   // muammeraydemir
+        String metin = "";   
         String sifreliMetin = "";
         String desifreliMetin = "";
         int blokUzunlugu;

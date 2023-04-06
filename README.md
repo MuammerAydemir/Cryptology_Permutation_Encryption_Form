@@ -4,5 +4,5 @@ Kriptoloji'de kullanılan **Permütasyon Algoritması** C# programlama dili kull
 
 ***
 
-![Form](/bin/Debug/picture/permImg.png)
+![Form](picture/permImg.png)
     
